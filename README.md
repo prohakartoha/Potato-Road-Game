@@ -1,0 +1,1 @@
+A small game for Android about cubes and mugs. In this game you play as a cube, which must collect mugs and earn coins (virtual), but I did not have time to finish the store because I lost the source code.
